@@ -1,5 +1,4 @@
 # MachineLearningIIProject Group 38
-# MachineLearningIIproject Group 25. 
 # By Emmanuella Ohanma (20211659)
 ## Project Overview
 This project implements customer segmentation using machine learning clustering techniques.
